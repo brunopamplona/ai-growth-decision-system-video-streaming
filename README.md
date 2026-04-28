@@ -28,7 +28,7 @@ All outputs are directly aligned to core **growth KPIs**:
 - Recurring Revenue  
 
 Decisions are grounded in **observable signals from the platform value funnel**, including:
-- Backend APIs (AVS 9.3)
+- Backend APIs (Video Streaming Service Platform)
 - Data extractors, batches, and ingestion pipelines
 - Aggregated UX and product interaction signals  
 
@@ -47,7 +47,7 @@ The system is implemented as a **governed multi‑agent architecture**, with str
 - Final coherence validation across strategy, data, and technology
 
 **Agent 1 — Technical & Functional Architect**
-- AVS 9.3 backend APIs and system constraints
+- Video Streaming Platform backend APIs and system constraints
 - Technical feasibility analysis
 - NFRs, scalability, and platform impact assessment
 
