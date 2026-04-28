@@ -1,4 +1,4 @@
-# AI Growth Decision System — AVS 9.3
+# AI Growth Decision System — Video Streaming platform
 
 A **Staff‑level, multi‑agent AI framework** designed to support **responsible growth decision‑making** for large‑scale video streaming platforms.
 
